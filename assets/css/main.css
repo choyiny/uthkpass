@@ -2790,7 +2790,7 @@ button:disabled,
 }
 
 .tiles article:nth-child(6n - 3):before {
-    background-color: #ec8d81;
+    background-color: rgba(156, 28, 40, 1);
 }
 
 .tiles article:nth-child(6n - 2):before {
